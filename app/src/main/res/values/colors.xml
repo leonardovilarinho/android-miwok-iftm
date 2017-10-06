@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="category_number">#FD8E09</color>
+    <color name="category_family">#379237</color>
+    <color name="category_color">#8800A0</color>
+    <color name="category_phrase">#16AFCA</color>
+
+    <color name="secondary">#FFF7DA</color>
+
+</resources>
